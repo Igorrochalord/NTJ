@@ -10,7 +10,7 @@ db = client['bot_database']
 users_collection = db['usuarios']
 
 # Substitua pelo seu token
-bot = telebot.TeleBot('chave secreta do igao')
+bot = telebot.TeleBot('7169792732:AAFCZC67pW0fKRaWhZdYH0tkQ-RPsJsiIVM')
 
 # Dicionário temporário para armazenar dados do usuário e sessão
 temp_user_data = {}
